@@ -2,9 +2,9 @@
 A tiny platforming game
 
 # Description
-Tiny Jumper is a speedrunning platformer game. Jump through all kinds of obstacles in
+Tiny Jumper is a speed-running platformer game. Jump through all kinds of obstacles in
 order to get to the goal as fast as possible. There are 15 interesting and fun levels
-to try out - and your best times will be saved for each one! For additional challenge,
+to try out - and your best times will be saved for each one! For an additional challenge,
 try to get the gold times for each level to unlock different colors for your player. And
 if you get all 15 gold times, something special might just happen...
 
