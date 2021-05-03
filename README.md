@@ -11,6 +11,7 @@ if you get all 15 gold times, something special might just happen...
 # Controls (when on the main menu)
 
 *arrow keys* - moves the cursor
+
 `clear` - quits the game
 
 `2nd` or `enter` - selects the level that the cursor is on
