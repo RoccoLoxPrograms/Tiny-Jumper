@@ -1590,7 +1590,6 @@ void bonusLevel () {
 
 int main () {
   ti_var_t slot;
-  ti_CloseAll();
   // if the appvar "TnyTimes" does not exist, then reset the all the times.
   if (!(slot = ti_Open("TnyTimes", "r"))) {
     reset_data();
@@ -1632,7 +1631,6 @@ int main () {
   }
 
   gfx_End();
-  ti_CloseAll();
   slot = ti_Open("TnyTimes", "w+");
   ti_Write(&tinyDATA, 34, 1, slot);
   ti_SetArchiveStatus(true, slot);
